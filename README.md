@@ -1,4 +1,4 @@
-# Health Insurance Data Analysis (EDA)
+# Health Insurance Data Analysis 
 
 ## Overview
 This project performs Exploratory Data Analysis (EDA) on a health insurance dataset to understand how different factors influence medical insurance charges. The analysis focuses on identifying patterns, trends, and relationships within the data using statistical methods and visualizations.
